@@ -1,0 +1,7 @@
+---
+title: "Intermittent fasting: the science of going without"
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3680567/
+permalink: posts/100.html
+---
+
+> Advocates for taking periodic breaks from eating -- for up to 24 hours once or twice a week -- tout it as an effective and research-backed means of losing weight and improving health.

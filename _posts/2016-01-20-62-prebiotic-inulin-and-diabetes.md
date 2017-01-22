@@ -1,0 +1,23 @@
+---
+title: A Combination of Prebiotic Inulin and Oligofructose Improve Some of Cardiovascular Disease Risk Factors in Women with Type 2 Diabetes
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729356/
+permalink: posts/62.html
+---
+
+Here they test whether special fancy-pants sugars called <a href="https://en.wikipedia.org/wiki/Fructooligosaccharide">_fructooligosaccharides_</a> may benefit those with the metabolic condition. I can't recall the attribution, but I remember hearing that these fructooligosaccharides are sugars which can only be digested by a few organisms, certain healthful bacteria in the gut; and a tactic for encouraging the growth of these beneficial bacteria is to give them food that can't be taken away from them by gut's more rapacious and less healthful occupants.
+
+The scientists corroborate my vague assertion: "Oligofructose-enriched inulin can change composition of the gut microflora toward bifidobacteria and lactobacilli."
+
+And they conclude:
+
+> We demonstrated that supplementation with oligofructose-enriched inulin [not a spelling mistake] resulted in a significant decrease in body weight and <span class="sc">BMI</span> [body-mass index].
+
+But:
+
+> The exact mechanism(s) of weight reduction by oligofructose–enriched inulin remains unclear.
+
+And they unsurprisingly miss the point about the gut's microflora being altered, and search for more 'chemical' reasons for the benefits. I don't know, but my opinion is that the influence of the gut microbiome on health is not just *significant*, it's *everything*. ...I say 'unsurprisingly' because even in the last sixty days of reading through scientific research in the domain of health and nutrition, I have seen the marked biases from the influences of: first, free-market capitalism, which determines which health questions receive attention; and second, of dogmatic education and herd mentality (even in the scientific community), which slows down radical shifts in scientific awareness.
+
+Let's put it this way: they can't be right about everything; they must be quite wrong in certain fundamental assertions; and I believe this is one of them. The health community at large is yet to wake up to the reality that humans and microorganisms interact symbiotically.
+
+On a recent ski trip to Revelstoke (not that it matters, but...jealous?), in the mid-mountain lodge there was a hand-sanitizing stand, above which was posted the message "Health begins with clean hands." I think that statement must be categorically wrong. Health 'begins' with nature; and nature isn't sterile.

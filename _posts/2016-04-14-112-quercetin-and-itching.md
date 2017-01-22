@@ -1,0 +1,9 @@
+---
+title: "Soothing and anti-itch effect of quercetin phytosome in human subjects: a single-blind study"
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4777224/
+permalink: posts/112.html
+---
+
+> Quercetin has a skin protective effect against damage caused by a variety of insults, including <span class="sc">UV</span> radiation, histamine, or contact with toxic chemical compounds. Indeed, quercetin is able to reduce redness, itching, and inflammation of damaged skin; it may also help restore skin barrier function, increasing hydration, and reducing water loss.
+
+I've found quercetin's ability to prevent and heal sunburn to be so great that I've stopped using sunscreen.

@@ -1,0 +1,12 @@
+---
+title: Astaxanthin Inhibits Acetaldehyde-Induced Cytotoxicity in SH-SY5Y Cells by Modulating Akt/CREB and p38MAPK/ERK Signaling Pathways
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4820310/
+permalink: posts/115.html
+---
+
+> The study provides evidence that <span class="sc">A</span>st [astaxanthin] treatment may be beneficial for preventing neurotoxicity associated with acetaldehyde and excessive alcohol consumption.
+
+It's also a great example of why the general public holds obsolete views on health and nutrition: the jargon is really quite a barrier to understanding.
+
+* _Acetaldehyde_ is the most toxic product from the metabolism of alchohol.
+* _Cytotoxicity_ is the poisoning of cells.

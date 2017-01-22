@@ -1,0 +1,12 @@
+---
+title: Intestinal Dendritic Cell Subsets Have Different Origin and Functions
+title-href: https://www.ncbi.nlm.nih.gov/pubmed/19733097
+layout: post-layout
+permalink: posts/16.html
+---
+
+The cells of the intestinal membrane are fascinating: safely behind the tightly-packed wall of _epithelial_ cells, _dendritic_ cells reach their arms through the narrow gaps and into the gut contents.
+
+Two types of dendritic cell are discerned, the one pro-inflammatory, the other exerting a regulatory effect. Working together, they sample the particles of the digestive tract and direct the appropriate immune response:
+
+> Specifically, the intestinal immune system has to maintain tolerance to harmless food antigens and commensal microorganisms, yet robustly respond to harmful pathogens. Dysregulation of this balance results in uncontrolled inflammatory disorders, such as inflammatory bowel disease (<span class="sc">IBD</span>) in humans.

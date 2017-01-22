@@ -1,0 +1,7 @@
+---
+title: Obesity in the United States &mdash; Dysbiosis from Exposure to Low-Dose Antibiotics?
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867737/
+permalink: posts/89.html
+---
+
+> The rapid increase in obesity prevalence in the United States in the last 20 years is unprecedented and not well explained. Here, we explore a hypothesis that the obesity epidemic may be driven by population-wide chronic exposures to low-residue antibiotics that have increasingly entered the American food chain over the same time period.

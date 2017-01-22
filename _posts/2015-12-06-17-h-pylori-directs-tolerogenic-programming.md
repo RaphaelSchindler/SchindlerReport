@@ -1,0 +1,8 @@
+---
+title: H. pylori directs tolerogenic programming of dendritic cells
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023617/
+layout: post-layout
+permalink: posts/17.html
+---
+
+_Helicobacter pylori_ having been found to exert a tolerogenic effect -- 'infected,' your immune system is down-regulated, and you're less likely to suffer inflammatory disorders such as asthma, lupus, and inflammatory bowel disease -- the mechanism is studied whereby the bacterium, through interacting with the dendritic cells, is able to 'program' the immune system.

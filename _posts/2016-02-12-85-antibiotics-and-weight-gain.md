@@ -1,0 +1,13 @@
+---
+title: Subtherapeutic Levels of Antibiotics in Poultry Feeds and Their Effects on Weight Gain, Feed Efficiency, and Bacterial Colyltaurine Hydrolase Activity
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC203661/?page=1
+permalink: posts/85.html
+---
+
+This 1986 article is illuminating on the practice of administering antibiotics to our agricultural animals.
+
+> Antibiotics have been fed at subtherapeutic levels to improve weight gain and efficiency of feed utilization. This husbandry technique has been practiced since the 1950s.
+
+We still don't know why antibiotic-use leads to weight gain, but it does, and the agricultural industry knows this very well.
+
+What is extremely fascinating to me is that we can't seem to accept that we too are mammals, and this weight-gain effect applies to us. It's fascinating because human psychology operates to obscure the discovery of an important truth.

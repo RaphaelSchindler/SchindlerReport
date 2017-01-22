@@ -1,0 +1,14 @@
+---
+title: Role of adiponectin and some other factors linking type 2 diabetes mellitus and obesity
+title-href: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635140/
+layout: post-layout
+permalink: posts/26.html
+---
+
+Noticing that sufferers of type 2 diabetes are often fat, Dr. Chakraborti analyzes the latest developments in the field to determine the nature of the correlation: she investigates the factors involved in the interplay between obesity, insulin resistance, and type 2 diabetes mellitus.
+
+Adiponectin emerges as having remarkable therapeutic potential:
+
+> Because of such beneficial involvement in metabolic functions (lipids and carbohydrates), <span class="sc">IR</span> [insulin resistance] and atherosclerosis, this adipokine [adiponectin] is expected to impart protection against coronary heart diseases, steatohepatitis, non-alcoholic fatty liver diseases and a wide variety of cancers.
+
+This messenger chemical, which keeps you insulin-sensitive and reduces arterial plaque, can mean the difference between being slender and overweight. Your fat cells release it -- that is, when they're healthy, when their mitochondria are highly-functioning. When fat cells become full and bloated, their mitochondrial function is impaired, and less adiponectin is made.

@@ -1,0 +1,14 @@
+---
+title: The role of vitamin C in pushing back the boundaries of skin aging
+title-href: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562654/
+layout: post-layout
+permalink: posts/22.html
+---
+
+Ultrasonographic technology was used to measure the effects to the skin of a novel vitamin-<span class="sc">C</span>-containing topical formulation:
+
+> Our study shows that topically applied vitamin <span class="sc">C</span> is highly efficient as a rejuvenation therapy, inducing significant collagen synthesis in all age groups with minimal side effects.
+
+Vitamin <span class="sc">C</span> has long been thought to possess such rejuvenating potential, but with current technology we are better able to measure just how well it works. The treated skin actually became *thicker*.
+
+The challenges surrounding vitamin <span class="sc">C</span> for topical use have been the molecule's instability, absorption by the skin, and since it's an acid, the skin can tolerate only a modest dilution (here the formula contained only 5%). On the forefront of skincare are emerging technologies that mitigate these factors.

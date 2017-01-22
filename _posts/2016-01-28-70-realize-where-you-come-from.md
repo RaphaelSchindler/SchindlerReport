@@ -1,0 +1,24 @@
+---
+title: Realize Where You Come From
+permalink: posts/70.html
+---
+
+> Empty your mind of all thoughts.<br>
+Let your heart be at peace.<br>
+Watch the turmoil of beings,<br>
+but contemplate their return.<br>
+Each separate being in the universe<br>
+returns to the common source.<br>
+Returning to the source is serenity.<br>
+If you don't realize the source,<br>
+you stumble in confusion and sorrow.<br>
+When you realize where you come from,<br>
+you naturally become tolerant,<br>
+disinterested, amused,<br>
+kindhearted as a grandmother,<br>
+dignified as a king.<br>
+Immersed in the wonder of the Tao,<br>
+you can deal with whatever life brings you,<br>
+and when death comes, you are ready.
+
+-- Tao Te Ching

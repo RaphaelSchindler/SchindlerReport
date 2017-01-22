@@ -1,0 +1,10 @@
+---
+title: Long-term Effect of Ubiquinol on Exercise Capacity and the Oxidative Stress Regulation System
+title-href: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976004/
+layout: post-layout
+permalink: posts/35.html
+---
+
+_Ubiquinol_, the reduced form of Coenzyme <span class="sc">Q</span>10 (<span class="sc">C</span>o<span class="sc">Q</span>10), is shown to raise exercise capacity in a mouse model. Ubiquinol both provokes an energetic-state and helps with the oxidative-stress cleanup.
+
+Further to its published purpose, the research seems to reveal the hormetic effect of oxidative stress (which effect seems better evidenced than accepted): exercise is a great way to induce oxidative stress. So why is it good for you? Because the body responds to the challenge. So we have a situation where too little oxidative stress causes senescence, and too much causes damage. The key is to stimulate the body the right amount.

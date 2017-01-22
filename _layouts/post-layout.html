@@ -1,0 +1,35 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Schindler Report</title>
+    <meta name="viewport" content="initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+  <body>
+
+    <header>
+      <h1><a href="/"><img src="/assets/logo.svg" width="288px"></a></h1>
+    </header>
+
+    <main>
+      <article>
+        {% if page.title-href %}
+        <h1><a href="{{ page.title-href }}" class="sc external">{{ page.title }}</a></h1>
+        {% else %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+        
+        {{ content }}
+      </article>
+    </main>
+
+    <footer>
+      <p>Copyright &copy; 2015&ndash;2016 Raphael Martin Schindler</p>
+    </footer>
+
+  </body>
+</html>

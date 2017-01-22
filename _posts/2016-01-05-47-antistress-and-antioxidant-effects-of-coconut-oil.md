@@ -1,0 +1,11 @@
+---
+title: Antistress and antioxidant effects of virgin coconut oil in vivo
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4247320/
+permalink: posts/47.html
+---
+
+In this mouse model, the animals were administered 10 ml of the oil per kg of body mass. I'd have to consume 800 ml daily to be on par with the rodents in the study -- a stupendous amount! I doubt I could metabolize such an amount of oil; though I'm inclined to train my digestive system to tolerate it.
+
+We westerners are not very good at metabolizing fats: we've trained our digestive systems to consume carbs and proteins, but because of a staggering error in judgement, as a society we have been actively avoiding fats for many years. As though consuming fat makes you fat!
+
+But by gradual and incrementally-increasing consumption, the body can learn to be an expert in metabolizing fats, as it's supposed to be.

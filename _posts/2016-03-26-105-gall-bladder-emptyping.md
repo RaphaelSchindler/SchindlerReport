@@ -1,0 +1,14 @@
+---
+title: Effects of various food ingredients on gall bladder emptying
+title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898429/
+permalink: posts/105.html
+---
+
+> The emptying of the gall bladder in response to feeding is pivotal for the digestion of fat, but the role of various food ingredients in contracting the gall bladder postprandially [i.e. after a meal] is not well understood.
+
+I learned:
+
+* (As already stated) gall bladder emptying is pivotal for the digestion of fat.
+* The gall bladder is like a little bulb, complete with its own sphincter (so now you have two!), that through squeezing itself and control of the sphincter injects a fluid into the digestive system, and the 'injection site' is the _duodenum_, which is the tube leaving the stomach.
+* The injected fluid, _bile_, is what causes the digestion of fats.
+* The gall bladder empties different amounts of bile depending on what was eaten.
