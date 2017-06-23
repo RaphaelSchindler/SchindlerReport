@@ -1,8 +1,0 @@
----
-title: Magnesium intake and metabolic syndrome
-title-href: http://www.ncbi.nlm.nih.gov/pubmed/22217579
-layout: post-layout
-permalink: posts/23.html
----
-
-Incidence of _metabolic syndrome_, a euphemism for the condition of being fat and unhealthy, was found to be inversely associated with magnesium intake.

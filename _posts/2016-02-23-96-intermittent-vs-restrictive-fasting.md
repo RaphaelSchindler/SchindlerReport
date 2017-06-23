@@ -1,9 +1,0 @@
----
-title: "Intermittent versus daily calorie restriction: which diet regimen is more effective for weight loss?"
-title-href: https://www.ncbi.nlm.nih.gov/pubmed/21410865/
-permalink: posts/96.html
----
-
-> Intermittent CR [calorie restriction] may be more effective for the retention of lean mass.
-
-This corroborates other research that has shown intermittent fasting as more beneficial than caloric restriction generally. The point: it matters not only what you eat, and how much, but how often.

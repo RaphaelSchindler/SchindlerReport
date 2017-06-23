@@ -1,5 +1,0 @@
----
-title: "Impact of caloric and dietary restriction regimens on markers of health and longevity in humans and animals: a summary of available findings"
-title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200169/
-permalink: posts/97.html
----

@@ -1,7 +1,0 @@
----
-title: Neuroprotective effect of Spirulina fusiform on Parkinsonism
-title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4548915/
-permalink: posts/42.html
----
-
-It's well-known that consuming Spirulina is health-promoting; this study gives me insight into dosages -- *some* insight, at least, as this was a rat model. But the study animals were made to consume 500 mg of Spirulina per kg of body mass. For me, at roughly 80 kg, I'd have to consume 40 g of Spirulina daily to be on par, and that is an amount much greater than I have ever considered.

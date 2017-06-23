@@ -1,8 +1,0 @@
----
-title: "Bioactive Compounds of Blueberries: Post-Harvest Factors Influencing the Nutritional Value"
-title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4581264/
-permalink: posts/61.html
----
-
-> This work [of 2015] presents the most recent state of knowledge about the pre-treatment and processing methods applied to blueberries and their influence on the content of biologically-active compounds.
-

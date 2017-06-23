@@ -1,0 +1,19 @@
+---
+---
+
+{% for post in site.posts %}
+  <article> 
+    <h1>
+      
+    {% if post.title-href %}
+      <a class="manicule" href="{{ post.url }}" title="Permanent link to the post">&raquo;</a><a href="{{ post.title-href }}" class="external">{{ post.title }}</a>
+    {% else %}
+      <a class="manicule" href="{{ post.url }}" title="Permanent link to the post">&raquo;</a>{{ post.title }}
+    {% endif %}
+    </h1>
+
+    {{ post.content }}
+    
+    <div class="separator">&nbsp;</div>
+  </article>
+{% endfor %}

@@ -1,9 +1,0 @@
----
-title: "Spirulina and its hypolipidemic and antioxidant effects in humans: a systematic review"
-title-href: https://www.ncbi.nlm.nih.gov/pubmed/26268076
-permalink: posts/43.html
----
-
-This 2014 review summarizes the research on Spirulina supplementation in humans over the past five years. They find research suggesting Spirulina's effectiveness; but complain that not one study was properly controlled and randomized, and observe the general dearth of attention on the subject and a lack of any investigation into the mechanism of action.
-
-The fact that this supplement isn't being studied much is indeed a problem: we have here a substance that promises to be significantly health-promoting, but the attention of the scientific community following the free-market model of enterprise, we are as a civilization liable to overlook vastly important discoveries; maybe this is one of them.

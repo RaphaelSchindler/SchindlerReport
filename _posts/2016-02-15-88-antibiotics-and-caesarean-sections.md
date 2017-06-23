@@ -1,7 +1,0 @@
----
-title: Prenatal exposure to antibiotics, cesarean section and risk of childhood obesity
-title-href: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4390478/
-permalink: posts/88.html
----
-
-> In our cohort, <span class="sc">CS</span> [caesarian sections] and exposure to antibiotics in the second or third trimester were associated with higher offspring risk of childhood obesity. Future studies that address the limitations of our study are warranted to determine if prenatal antibiotic use is associated with offspring obesity. Research is also needed to determine if alterations in neonatal gut microbiota underlie the observed associations.

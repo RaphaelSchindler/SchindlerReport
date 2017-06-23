@@ -1,7 +1,7 @@
 defaults:
   -
-    scope:
-      path: ""
-      type: "posts"
     values:
-      layout: post-layout
+      layout: default
+      excerpt_separator: ""
+
+markdown_ext: "kram"

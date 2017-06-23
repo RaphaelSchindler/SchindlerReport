@@ -1,8 +1,0 @@
----
-title: Sprouted Seeds
-permalink: posts/54.html
----
-
-An insight in my understanding of the nutritional benefits of sprouted seeds: Seeds have evolved to survive, so it is conceivable that they contain substances to frustrate their being digested. However, it is intuitive to me that the transition from a dormant to a living state may require, so to speak, everything the seed has; and for a moment it is profoundly fragile; which fragility translates, from our point of view, as digestibility.
-
-Further, I could see the seed as a sort of stockpile of resources, as well as a protective home to a dormant kernel of life. While this 'stockpile' is nutritious to us, our body must do the work of converting the raw materials to biologically significant molecules. Why not let the organism start this work for us? A sprouted seed is no longer just a container of materials, but a living thing, whose biological components are of higher nutritional value to our digestion than the raw materials from which they emerged.
