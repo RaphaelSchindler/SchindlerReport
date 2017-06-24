@@ -7,23 +7,30 @@
 body > header, body > footer, body > main { min-width: 320px; max-width: 540px; padding: 0 24px; margin: 0 auto; }
 p, h1, ul { line-height: 24px; }
 h1 { margin: 48px 0 24px 0; }
+h1 [descriptor], h1 .descriptor { line-height: 12px; display: block; }
 p { margin: 24px 0; }
+[no-margin], .no-margin { margin: 0; }
 
 /* Colour */
 
 body { color: #000000; background: url(/assets/background.png) center/158px; }
 a { color: #7A33DB; }
+h1 [descriptor], h1 .descriptor { color: #7F7F7F; }
 
 /* Typography */
 
-@font-face { font-family: 'Linux Libertine'; src: url('/assets/LinLibertine_R.woff') format('woff'); font-weight: normal; font-style: normal; }
-@font-face { font-family: 'Linux Libertine'; src: url('/assets/LinLibertine_RB.woff') format('woff'); font-weight: bold; font-style: normal; }
-@font-face { font-family: 'Linux Libertine'; src: url('/assets/LinLibertine_RI.woff') format('woff'); font-weight: normal; font-style: italic; }
-@font-face { font-family: 'Linux Libertine'; src: url('/assets/LinLibertine_RBI.woff') format('woff'); font-weight: bold; font-style: italic; }
-@font-face { font-family: 'Linux Libertine SC'; src: url('/assets/LinLibertine_aS.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Linux Libertine'; src: url('/assets/linlibertine_r.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Linux Libertine'; src: url('/assets/linlibertine_rb.woff') format('woff'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Linux Libertine'; src: url('/assets/linlibertine_ri.woff') format('woff'); font-weight: normal; font-style: italic; }
+@font-face { font-family: 'Linux Libertine'; src: url('/assets/linlibertine_rbi.woff') format('woff'); font-weight: bold; font-style: italic; }
+@font-face { font-family: 'Linux Libertine SC'; src: url('/assets/LinLibertine_s.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_rb.woff') format('woff'); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_ri.woff') format('woff'); font-weight: normal; font-style: italic; }
+@font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_rbi.woff') format('woff'); font-weight: bold; font-style: italic; }
 body { font-family: 'Linux Libertine', serif; }
 p { font-size: 19px; }
 h1 { font-size: 19px; font-weight: bold; }
+h1 [descriptor], h1 .descriptor { font-size: 19px; font-weight: normal; font-feature-settings: "smcp", "c2sc", "pnum", "onum"; }
 
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }

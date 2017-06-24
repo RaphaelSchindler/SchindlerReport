@@ -3,7 +3,11 @@
 
 {% for post in site.posts %}
   <article> 
-    <h1>
+    <h1 no-margin>
+      <span descriptor>
+        {{ post.type | default: "blog post"}}
+        <span style="float:right">{{ post.date | date: "%e %b %Y" }}</span>
+      </span>
       
     {% if post.title-href %}
       <a class="manicule" href="{{ post.url }}" title="Permanent link to the post">&raquo;</a><a href="{{ post.title-href }}" class="external">{{ post.title }}</a>
