@@ -11,7 +11,7 @@ p { margin: 24px 0; }
 
 /* Colour */
 
-body { background-color: #FFF6E6; color: #645A52; }
+body { background-color: #FFF6E6; color: #645A52; background: url(/assets/background.png) center/158px; }
 a { color: #C46210; }
 a.external { border-bottom: 1px solid #C46210; line-height: 23px; }
 
@@ -23,13 +23,13 @@ a.external { border-bottom: 1px solid #C46210; line-height: 23px; }
 @font-face { font-family: 'Linux Libertine'; src: url('/assets/LinLibertine_RBI.woff') format('woff'); font-weight: bold; font-style: italic; }
 @font-face { font-family: 'Linux Libertine SC'; src: url('/assets/LinLibertine_aS.woff') format('woff'); font-weight: normal; font-style: normal; }
 body { font-family: 'Linux Libertine', serif; }
-p { font-size: 18px; }
-h1 { font-size: 18px; font-weight: bold; }
+p { font-size: 19px; }
+h1 { font-size: 19px; font-weight: bold; }
 
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 a { text-decoration: none; }
-[sc], .sc { font-family: 'Linux Libertine SC'; text-transform: lowercase; }
+[sc], .sc { font-family: 'Linux Libertine SC'; font-feature-settings: "c2sc", "onum";}
 
 /* Misc */
 
