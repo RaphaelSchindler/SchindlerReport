@@ -1,8 +1,6 @@
 ---
 ---
 
-This is a test. *This* is _emphasized_. **This** is strongly emphasized. ***This*** is both emphasized and italic. Now doesn't HCI look better as <span sc>hci</span>?
-
 {% for post in site.posts %}
   <article> 
     <h1>

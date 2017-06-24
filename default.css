@@ -29,7 +29,7 @@ h1 { font-size: 18px; font-weight: bold; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 a { text-decoration: none; }
-[sc], .sc { font-family: 'Linux Libertine SC'; }
+[sc], .sc { font-family: 'Linux Libertine SC'; text-transform: lowercase; }
 
 /* Misc */
 
