@@ -11,9 +11,8 @@ p { margin: 24px 0; }
 
 /* Colour */
 
-body { background-color: #FFF6E6; color: #645A52; background: url(/assets/background.png) center/158px; }
-a { color: #C46210; }
-a.external { border-bottom: 1px solid #C46210; line-height: 23px; }
+body { color: #000000; background: url(/assets/background.png) center/158px; }
+a { color: #7A33DB; }
 
 /* Typography */
 
