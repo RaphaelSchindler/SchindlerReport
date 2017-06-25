@@ -2,22 +2,35 @@
 ---
 
 {% for post in site.posts %}
-  <article> 
+  <article card>
     <h1 no-margin>
-      <span descriptor>
+      <span descriptor compact>
         {{ post.type | default: "blog post"}}
         <span style="float:right">{{ post.date | date: "%e %b %Y" }}</span>
       </span>
-      
-    {% if post.title-href %}
-      <a class="manicule" href="{{ post.url }}" title="Permanent link to the post">&raquo;</a><a href="{{ post.title-href }}" class="external">{{ post.title }}</a>
-    {% else %}
-      <a class="manicule" href="{{ post.url }}" title="Permanent link to the post">&raquo;</a>{{ post.title }}
-    {% endif %}
+      <div style="height:6px"></div>
+      {{ post.title }}
     </h1>
+    
+    {% if post.title-href %}
+    <div style="height:6px"></div>
+    <p sc lighter no-margin compact>
+      <a href="{{ post.title-href }}">link</a>
+      {% if post.type %}
+        to the {{ post.type }}
+      {% endif %}
+      {% if post.pub-source %}
+        &mdash; Published in <i>{{ post.pub-source }}</i>
+        {% if post.pub-date %}
+          ({{ post.pub-date }})
+        {% endif %}
+      {% endif %}
+      
+    </p>
+    {% endif %}
 
     {{ post.content }}
     
-    <div class="separator">&nbsp;</div>
+    <hr asterism>
   </article>
 {% endfor %}

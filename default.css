@@ -5,17 +5,24 @@
 
 * { box-sizing: border-box; }
 body > header, body > footer, body > main { min-width: 320px; max-width: 540px; padding: 0 24px; margin: 0 auto; }
-p, h1, ul { line-height: 24px; }
+p, h1, ul, dd { line-height: 24px; }
 h1 { margin: 48px 0 24px 0; }
-h1 [descriptor], h1 .descriptor { line-height: 12px; display: block; }
+[descriptor], .descriptor { line-height: 24px; display: block; }
 p { margin: 24px 0; }
 [no-margin], .no-margin { margin: 0; }
+[compact], .compact { line-height: 18px; }
+article[card], article.card { border-top: 1px solid transparent; }
+article + article { margin-top: 48px; }
+hr[asterism] { display: block; border: 0; content: "hi"; height: 24px; margin: 24px auto; }
+hr[asterism]::before { line-height: 32px; font-size: 28px; content: "\269A"; text-align: center; display: block; }
 
 /* Colour */
 
 body { color: #000000; background: url(/assets/background.png) center/158px; }
 a { color: #7A33DB; }
-h1 [descriptor], h1 .descriptor { color: #7F7F7F; }
+[descriptor], .descriptor { color: #7F7F7F; }
+[lighter], .lighter { color: #7F7F7F; }
+article[card], article.card { border-color: #000000; }
 
 /* Typography */
 
@@ -28,20 +35,19 @@ h1 [descriptor], h1 .descriptor { color: #7F7F7F; }
 @font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_ri.woff') format('woff'); font-weight: normal; font-style: italic; }
 @font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_rbi.woff') format('woff'); font-weight: bold; font-style: italic; }
 body { font-family: 'Linux Libertine', serif; }
-p { font-size: 19px; }
+p, dl { font-size: 19px; }
 h1 { font-size: 19px; font-weight: bold; }
-h1 [descriptor], h1 .descriptor { font-size: 19px; font-weight: normal; font-feature-settings: "smcp", "c2sc", "pnum", "onum"; }
-
+[descriptor], .descriptor { font-size: 19px; font-weight: normal; font-feature-settings: "smcp", "c2sc", "pnum", "onum"; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 a { text-decoration: none; }
-[sc], .sc { font-family: 'Linux Libertine SC'; font-feature-settings: "c2sc", "onum";}
+[sc], .sc { font-family: 'Linux Libertine SC'; font-feature-settings: "smcp", "c2sc", "pnum", "onum";}
 
 /* Misc */
 
 html { -moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; text-size-adjust: none; }
 
-
+<
 
 
 
