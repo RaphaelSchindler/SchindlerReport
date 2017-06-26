@@ -37,8 +37,10 @@ article[card], article.card { border-color: #000000; }
 @font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_ri.woff') format('woff'); font-weight: normal; font-style: italic; }
 @font-face { font-family: 'Linux Libertine SC'; src: url('/assets/linlibertine_rbi.woff') format('woff'); font-weight: bold; font-style: italic; }
 body { font-family: 'Linux Libertine', serif; }
-p, dl { font-size: 19px; }
+p, ul { font-size: 19px; }
 h1 { font-size: 19px; font-weight: bold; }
+ul { list-style: none; }
+ul > li::before { content: "-"; display: inline-block; width: 0; position: relative; top: 0px; left: -12px; }
 [descriptor], .descriptor { font-size: 19px; font-weight: normal; font-feature-settings: "smcp", "c2sc", "pnum", "onum"; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
