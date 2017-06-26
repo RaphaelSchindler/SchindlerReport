@@ -9,6 +9,7 @@ p, h1, ul, dd { line-height: 24px; }
 h1 { margin: 48px 0 24px 0; }
 [descriptor], .descriptor { line-height: 24px; display: block; }
 p { margin: 24px 0; }
+blockquote { border-left: 2px solid transparent; padding-left: 22px; }
 [no-margin], .no-margin { margin: 0; }
 [compact], .compact { line-height: 18px; }
 article[card], article.card { border-top: 1px solid transparent; }
@@ -20,6 +21,7 @@ hr[asterism]::before { line-height: 32px; font-size: 28px; content: "\269A"; tex
 
 body { color: #000000; background: url(/assets/background.png) center/158px; }
 a { color: #7A33DB; }
+blockquote { border-color: #BFBFBF; }
 [descriptor], .descriptor { color: #7F7F7F; }
 [lighter], .lighter { color: #7F7F7F; }
 article[card], article.card { border-color: #000000; }
