@@ -9,6 +9,7 @@ p, h1, ul, dd { line-height: 24px; }
 h1 { margin: 48px 0 24px 0; }
 [descriptor], .descriptor { line-height: 24px; display: block; }
 p { margin: 24px 0; }
+p[dl], p.dl { margin-bottom: -24px; }
 blockquote { border-left: 2px solid transparent; padding-left: 22px; }
 [no-margin], .no-margin { margin: 0; }
 [compact], .compact { line-height: 18px; }
