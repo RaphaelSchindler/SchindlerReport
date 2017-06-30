@@ -47,7 +47,8 @@ em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 a { text-decoration: none; }
 [sc], .sc { font-family: 'Linux Libertine SC'; font-feature-settings: "smcp", "c2sc", "pnum", "onum";}
-sup { font-feature-settings: "sups"; }
+sup { font-feature-settings: "sups"; } /* Superscript */
+sub { font-feature-settings: "sinf"; } /* Scientific inferiors */
 
 /* Misc */
 
